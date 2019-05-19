@@ -42,7 +42,7 @@ body {
 
 /*start of landing page*/
 .home-inner{
-  background-image: url("./img/computers.png");
+  background-image: url("./img/background2.png");
 }
 
 .caption {
@@ -146,7 +146,7 @@ h3.heading {
 
 /*============= resources SECTION =============*/
 .fixed{
- background-image: url("./img/computers.png");
+ background-image: url("./img/background2.png");
  z-index: -1;
 }
 
